@@ -1,3 +1,3 @@
 # Demo
 
-Wonderful training
+Wonderful training!
